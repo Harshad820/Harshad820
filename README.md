@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshad Gaikwad</h1>
 
-<h3 align="center">💡 Data Analyst | MIS Analyst</h3>
+
 
 <h4><p align="center">
-Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL (Joins, CTEs, Window Functions) • 
+Data Analyst • Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL (Joins, CTEs, Window Functions) • 
 Power BI (DAX, Data Modeling) • Excel (Pivot, XLOOKUP, Power Query) • EDA
 </p></h4>
 
