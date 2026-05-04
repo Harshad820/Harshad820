@@ -12,7 +12,7 @@ Power BI (DAX, Data Modeling) • Excel (Pivot, XLOOKUP, Power Query) • EDA
 </p>
 
 <p align="left">
-🌍 Pune, Maharashtra, India
+🌍 <a href="#"> Pune, Maharashtra, India</a>
 🔗 <a href="https://harshad-gaikwad.vercel.app/">Portfolio</a><br>
 💻 <a href="https://github.com/Harshad820/">GitHub</a><br>
 🔗 <a href="https://www.linkedin.com/in/harshad-gaikwad-6382b6276/">LinkedIn</a>
