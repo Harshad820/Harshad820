@@ -7,7 +7,7 @@ Data Analyst • Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL (Joins, CTE
 Power BI (DAX, Data Modeling) • Excel (Pivot, XLOOKUP, Power Query) • EDA
 </p></h4>
 
-<p align="center">
+<p align="left">
 📊 Turning Data into Insights | 🌍 Pune, Maharashtra, India
 </p>
 
