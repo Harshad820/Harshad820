@@ -2,16 +2,16 @@
 
 <h3 align="center">💡 Data Analyst | MIS Analyst</h3>
 
-<p align="center">
+<h4><p align="center">
 Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL (Joins, CTEs, Window Functions) • 
 Power BI (DAX, Data Modeling) • Excel (Pivot, XLOOKUP, Power Query) • EDA
-</p>
+</p></h4>
 
 <p align="center">
 📊 Turning Data into Insights | 🌍 Pune, Maharashtra, India
 </p>
 
-<p align="center">
+<p align="left">
 🔗 <a href="https://harshad-gaikwad.vercel.app/">Portfolio</a><br>
 💻 <a href="https://github.com/Harshad820/">GitHub</a><br>
 🔗 <a href="https://www.linkedin.com/in/harshad-gaikwad-6382b6276/">LinkedIn</a>
