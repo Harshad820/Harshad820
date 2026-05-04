@@ -1,18 +1,26 @@
-## Hi there 👋
-<!-- about me 
-# Hi 👋, --> 
- / # I'm Harshad Gaikwad
+<h1 align="center">Hi 👋, I'm Harshad Gaikwad</h1>
 
-'/'💡 Data Analyst/MIS Analyst || Python (Pandas, NumPy, Matplotlib, Seaborn) || SQL (Joins, CTEs, Window Functions) || Power BI (DAX, Data Modeling) || Excel (Pivot, XLOOKUP, Power Query) || EDA 
- '/' ### Turning Data into Insights
-🌍 Pune, Maharashtra, India 
-🔗 **Portfolio:** https://harshad-gaikwad.vercel.app/ 
-💻 **GitHub:** https://github.com/PRATIKSH2https://github.com/Harshad820/ 
-🔗 **LinkedIn:** https://www.linkedin.com/in/harshad-gaikwad-6382b6276/ 
+<h3 align="center">💡 Data Analyst | MIS Analyst</h3>
+
+<p align="center">
+Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL (Joins, CTEs, Window Functions) • 
+Power BI (DAX, Data Modeling) • Excel (Pivot, XLOOKUP, Power Query) • EDA
+</p>
+
+<p align="center">
+📊 Turning Data into Insights | 🌍 Pune, Maharashtra, India
+</p>
+
+<p align="center">
+🔗 <a href="https://harshad-gaikwad.vercel.app/">Portfolio</a><br>
+💻 <a href="https://github.com/Harshad820/">GitHub</a><br>
+🔗 <a href="https://www.linkedin.com/in/harshad-gaikwad-6382b6276/">LinkedIn</a>
+</p>
 
 ---
 
 ## 🚀 About Me
+
 🚀 I am a passionate Data Analyst who enjoys turning raw data into meaningful insights that drive smarter decisions. With a strong foundation in Python, SQL, and data visualization tools like Power BI and Tableau, I focus on solving real-world problems using data.
 
 📊 I have hands-on experience in data cleaning, exploratory data analysis (EDA), and building interactive dashboards. I’ve worked with large datasets to uncover trends, optimize performance, and present insights in a clear and impactful way.
@@ -35,28 +43,12 @@
 
 ---
 
-
 ## 📫 Connect With Me
 
 📧 Email: [harshadgaikwad3730@gmail.com](mailto:harshadgaikwad3730@gmail.com)
-🔗 LinkedIn:https://www.linkedin.com/in/harshad-gaikwad-6382b6276/
 
+🔗 LinkedIn: https://www.linkedin.com/in/harshad-gaikwad-6382b6276/
 
 ---
 
 ⭐️ Open to opportunities, collaboration, and learning!
-
-<!--
-**Harshad820/Harshad820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
