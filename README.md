@@ -1,10 +1,10 @@
 ## Hi there 👋
 <!-- about me 
 # Hi 👋, --> 
- // # I'm Harshad Gaikwad
+ / # I'm Harshad Gaikwad
 
-//💡 Data Analyst/MIS Analyst || Python (Pandas, NumPy, Matplotlib, Seaborn) || SQL (Joins, CTEs, Window Functions) || Power BI (DAX, Data Modeling) || Excel (Pivot, XLOOKUP, Power Query) || EDA 
- // ### Turning Data into Insights
+'/'💡 Data Analyst/MIS Analyst || Python (Pandas, NumPy, Matplotlib, Seaborn) || SQL (Joins, CTEs, Window Functions) || Power BI (DAX, Data Modeling) || Excel (Pivot, XLOOKUP, Power Query) || EDA 
+ '/' ### Turning Data into Insights
 🌍 Pune, Maharashtra, India 
 🔗 **Portfolio:** https://harshad-gaikwad.vercel.app/ 
 💻 **GitHub:** https://github.com/PRATIKSH2https://github.com/Harshad820/ 
